@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C12276
 - 👀 I’m interested in ComputerScience
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning DataStructure&Algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
